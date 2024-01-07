@@ -1,0 +1,4 @@
+hero="her"
+zero=10.4
+label = "%s : %f" % (hero, zero)
+print(label)
